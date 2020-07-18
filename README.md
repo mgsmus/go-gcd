@@ -1,0 +1,1 @@
+Finding the greatest common divisor (GCD) of the given integers in Go.
